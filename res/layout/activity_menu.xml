@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+    android:layout_height="match_parent"
+    tools:context="www.projetotaurus.com.br.taurusfinal.Menu">
+
+    <TextView
+        android:id="@+id/of"
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        android:text="Enviar ofertas"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <TextView
+        android:id="@+id/cadmarc"
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        android:text="Cadastrar marcas"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <TextView
+        android:id="@+id/cadusu"
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        android:text="Cadastrar usuários"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="0dp" />
+
+    <TextView
+        android:id="@+id/consulfil"
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        android:text="Consultar filiais"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="0dp" />
+    <TextView
+        android:id="@+id/listmarca"
+        android:layout_width="368dp"
+        android:layout_height="wrap_content"
+        android:text="Listar marcas"
+        android:textSize="24sp"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="0dp" />
+</LinearLayout>

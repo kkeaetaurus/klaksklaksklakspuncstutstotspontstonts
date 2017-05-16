@@ -1,0 +1,43 @@
+<resources>
+    <string name="app_name">Concessionária Taurus</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+    <string name="emailhint">Type your e-mail</string>
+    <string name="senhahint">Type your password</string>
+    <string name="Entrar">LogIn</string>
+    <string name="Editar">Update</string>
+    <string name="Excluir">Delete</string>
+    <string name="Cadastrar">Register</string>
+    <string name="Nomemarca">Type the vehicle brand</string>
+    <string name="Email">Type the message</string>
+    <string name="Enviaremail">SEND OFFER</string>
+
+    <string name="Nome">Name</string>
+    <string name="CEP">CEP</string>
+    <string name="CPF">CPF</string>
+    <string name="Senha">Password</string>
+    <string name="Telefone">Phone</string>
+    <string name="Emailus">Email</string>
+    <string name="Gerente">Manager</string>
+    <string name="Vendedor">Seller</string>
+    <string name="Cliente">Client</string>
+    <string name="Confirmarsenha">Confirmn your password</string>
+    <string name="Cadastrousuario">Register user</string>
+    <string name="Cadastromarca">Register brand</string>
+    <string name="Envioferta">Offers</string>
+
+    <string name="Ofertas">Receive promotional offers</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
